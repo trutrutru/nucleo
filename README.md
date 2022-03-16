@@ -10,5 +10,5 @@ opópópóp
 
 
 <div align="center">
-<img src="https://github.com/trutrutru/nucleo/issues/2#issue-1170516004"/>
+<img src="https://github.com/trutrutru/nucleo/issues/2#issue-1170516004" width="100px"/>
  </div>
