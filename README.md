@@ -3,7 +3,7 @@
 ##### teste
 
 ![simbolomatew](https://raw.githubusercontent.com/trutrutru/nucleo/tmp/Imagens/SU.png)
-![simbolomatew](https://raw.githubusercontent.com/trutrutru/nucleo/tmp/Imagens/geodesica300x300.png)
+![simbolomatew]([https://raw.githubusercontent.com/trutrutru/nucleo/tmp/Imagens/geodesica300x300.png](https://github.com/trutrutru/nucleo/blob/tmp/Imagens/Screenshot%202022-09-28%2017-20-24.png))
 
 
 xxxx
